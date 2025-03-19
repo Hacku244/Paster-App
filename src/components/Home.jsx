@@ -107,7 +107,7 @@ const Home = () => {
 
 <footer className="text-center mt-10">
 <p className="text-[#F87060] text-xl font-inter font-bold border-b-2 border-[#F87060] inline-block pb-1">
-  Developed By Raja Suleman
+   Made with ❤️ by Raja Suleman
 </p>
 </footer>
   </div>
